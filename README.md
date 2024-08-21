@@ -21,7 +21,7 @@ Interactive Elements: Includes hover effects, modal windows, and an interactive 
 
 ## Live Demo
 
-Check out the live demo of the Trillo project [here](https://your-live-demo-link.com).
+Check out the live demo of the Trillo project [here](https://eric-trillo.netlify.app/).
 
 ## Installation
 
