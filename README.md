@@ -61,7 +61,7 @@ Refresh the browser to see your updates.
 - **JavaScript (ES6+)**: For interactivity and enhancing the user interface.
 - **HTML5**: For the semantic structure of the web page.
 - **CSS3**: Extensive use of Flexbox for layout design, as well as custom animations and transitions.
-- **Sass/Scss**: CSS preprocessor for writing modular and maintainable stylesheets.
+- **SASS/SCSS**: CSS preprocessor for writing modular and maintainable stylesheets.
 - **Git**: Version control to manage the development process.
 - **Netlify**: Used for deploying and hosting the live site.
 
